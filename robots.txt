@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /
+Allow: /
 Disallow: /privacy.html
 
-Sitemap: https://felixprehn.netlify.app/sitemap.xml
+Sitemap: https://prehninstitute.netlify.app/sitemap.xml
